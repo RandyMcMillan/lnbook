@@ -1,0 +1,33 @@
+10_onion_routing.asciidoc:300: bA ==> by, be
+10_onion_routing.asciidoc:319: ba ==> by, be
+10_onion_routing.asciidoc:327: bA ==> by, be
+10_onion_routing.asciidoc:331: bA ==> by, be
+10_onion_routing.asciidoc:336: bA ==> by, be
+10_onion_routing.asciidoc:639: filles ==> files, fills, filled
+16_security_privacy_ln.asciidoc:505: BA ==> BY, BE
+16_security_privacy_ln.asciidoc:506: BA ==> BY, BE
+contrib/channel-construction.asciidoc:250: fullfil ==> fulfil, fulfill
+contrib/path-finding.asciidoc:14: ist ==> is, it, its, it's, sit, list
+contrib/path-finding.asciidoc:23: pahts ==> paths, pats, parts
+contrib/path-finding.asciidoc:147: belives ==> believes, beliefs
+contrib/path-finding.asciidoc:148: belives ==> believes, beliefs
+contrib/path-finding.asciidoc:311: corrent ==> correct, current
+
+
+On branch develop-codespell-log
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   03_how_ln_works.asciidoc
+	modified:   05_node_operations.asciidoc
+	modified:   08_routing_htlcs.asciidoc
+	modified:   10_onion_routing.asciidoc
+	modified:   12_path_finding.asciidoc
+	modified:   13_wire_protocol.asciidoc
+	modified:   appendix-bitcoin-fundamentals-review.asciidoc
+	modified:   appendix_protocol_messages.asciidoc
+	modified:   contrib/e2e-presentation-layer.asciidoc
+	modified:   contrib/path-finding.asciidoc
+	modified:   preface.asciidoc
+
+no changes added to commit (use "git add" and/or "git commit -a")
