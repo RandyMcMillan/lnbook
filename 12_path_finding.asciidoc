@@ -202,7 +202,7 @@ Selena also receives seven channel_announcement messages with the corresponding 
 .The channel graph
 image::images/channel_graph_1.png[]
 
-===== Uncertainty in the channel graph
+==== Uncertainty in the channel graph
 
 As you can see from <<channel_graph_1>>, Selena does not know any of the balances of the channels. Her initial channel graph contains the highest level of uncertainty.
 
